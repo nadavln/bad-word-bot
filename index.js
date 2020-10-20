@@ -105,7 +105,7 @@ client.on('message', message => {
                     },
                     {
                         name: 'Feel free to DM me for feedback',
-                        value:'mr nobot:4438'
+                        value:'mr nobot#4438'
                     }
                 ],
                 footer: {
