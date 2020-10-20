@@ -44,10 +44,10 @@ client.on('ready', () => {
     client.user.setPresence({
         status: 'online',
         activity: {
-            name: '%show-words',
+            name: '%show-words | DM `info`',
             type: 'PLAYING'
         }
-    })
+    });
 });
 
 
