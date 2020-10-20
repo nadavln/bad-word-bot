@@ -102,6 +102,10 @@ client.on('message', message => {
                     {
                         name: 'GitHub Repo',
                         value: 'https://github.com/nadavln/bad-word-bot'
+                    },
+                    {
+                        name: 'Feel free to DM me for feedback',
+                        value:'mr nobot:4438'
                     }
                 ],
                 footer: {
